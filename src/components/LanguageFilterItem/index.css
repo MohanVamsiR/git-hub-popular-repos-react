@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.each-language {
+  margin: 10px;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  font-weight: 700;
+}
+.design {
+  border: 1px solid #0284c7;
+  border-radius: 3px;
+}

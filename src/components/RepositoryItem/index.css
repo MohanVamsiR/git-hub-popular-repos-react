@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.repo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8ff;
+  width: 30%;
+  border-radius: 5px;
+  background-size: cover;
+  margin: 15px;
+}
+.image-dimen {
+  width: 25px;
+  height: 25px;
+  margin-top: 5px;
+}
+.repo-heading {
+  color: #e73959;
+  font-size: 15px;
+}
+.val-cont {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 25px;
+  width: 90%;
+}
+.mini-img {
+  width: 10px;
+  height: 10px;
+}
+.para {
+  font-size: 15px;
+}
